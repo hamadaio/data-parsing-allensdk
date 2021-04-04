@@ -1,2 +1,3 @@
-# neuronal-data-allensdk
-Converting ephys neuronal traces from Allen Brain Atlas API
+# Neuronal Data Allen Brain Atlas API
+
+Importing & converting neuronal data using Allen Brain Atlas API (Py pkg `allensdk`)
